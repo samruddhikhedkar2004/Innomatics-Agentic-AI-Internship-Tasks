@@ -8,11 +8,25 @@ This folder contains the logic-building tasks completed during Week 01 of the Ag
 - Writing reusable logic
 - Applying logic to simple real-life scenarios
 
-## Tasks Included
+## Task Included
+
+### Tasks 1: Basic Logic Problems
 - User Login Check
 - Pass / Fail Analyzer
 - Simple Data Cleaner
 - Message Length Analyzer
 - Error Message Detector
 
-All tasks are implemented using Python in a Jupyter Notebook.
+### Task 2: Problem-Based Logic Practice
+- Finding unique words in a sentence
+- Identifying highest salary using dictionaries
+- Finding maximum and minimum values
+- Counting products above a price threshold
+- Calculating attendance percentage
+- Removing duplicate phone numbers
+- Character frequency counting
+- List to tuple conversion
+- Dictionary key existence check
+- Average marks calculation
+
+All tasks are implemented using Python in Jupyter Notebooks.
