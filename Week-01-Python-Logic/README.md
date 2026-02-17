@@ -17,6 +17,8 @@ This folder contains the logic-building tasks completed during Week 01 of the Ag
 - Message Length Analyzer
 - Error Message Detector
 
+# Logic Building Task 2
+
 ### Task 2: Problem-Based Logic Practice
 - Finding unique words in a sentence
 - Identifying highest salary using dictionaries
