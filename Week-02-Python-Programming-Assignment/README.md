@@ -1,4 +1,4 @@
-# Week 02 –  Data Processing and Analysis Task 3
+# Week 02 –  Task 3 – Data Processing and Analysis
 
 This folder contains the Week 02 tasks completed as part of the Agentic AI Internship at Innomatics Research Labs.
 
@@ -11,4 +11,23 @@ This folder contains the Week 02 tasks completed as part of the Agentic AI Inter
 5. Sales Spike Detection  
 6. Duplicate User ID Detection  
 
-All problems are implemented using Python with proper formatting and logical structure.
+# Task 04 – Logic Building & Validation Systems
+
+## Task Included
+
+1. Mobile Recharge Validation System  
+2. Inventory Reorder Alert System  
+3. Student Result Processing System  
+4. Cab Fare Estimator with Retry Option  
+5. Employee Attendance Eligibility Checker  
+6. Password Strength Checker  
+
+All problems are implemented using basic Python concepts such as:
+- Functions
+- Loops
+- Conditional statements
+- Input validation
+- Simple logical operations
+
+The focus of this task was to build real-world logic using structured and modular code.
+
