@@ -21,13 +21,21 @@ This folder contains the Week 02 tasks completed as part of the Agentic AI Inter
 4. Cab Fare Estimator with Retry Option  
 5. Employee Attendance Eligibility Checker  
 6. Password Strength Checker  
+  
+# Task 05 – Real-World Logic Building Systems
 
-All problems are implemented using basic Python concepts such as:
-- Functions
-- Loops
-- Conditional statements
-- Input validation
-- Simple logical operations
+## Task Included
 
-The focus of this task was to build real-world logic using structured and modular code.
+1. Social Media – Post Engagement Analyzer  
+2. Healthcare – Medicine Stock Alert System  
+3. Agriculture – Rainfall Adequacy Checker  
+4. Social Media – Duplicate Account Detection  
+5. Healthcare – Appointment Eligibility Checker  
+6. Agriculture – Premium Crop Price Filter  
+7. System Monitoring – Application Health Checker  
+8. Banking – Daily Transaction Limit Checker  
+9. E-Learning – Student Attendance Eligibility System  
+10. Smart Electricity Bill Analyzer  
+
+The focus of this task was to apply structured problem-solving techniques to real-world domain scenarios across healthcare, banking, agriculture, and technology systems.
 
